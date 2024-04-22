@@ -129,9 +129,9 @@ To start your Django REST API locally:
    ```
 
 
-## Now the React Part 
+# Now The React Part 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
