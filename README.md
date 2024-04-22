@@ -1,6 +1,6 @@
-## Project Title
+## Room Booking System using Django and React
 
-*Provide a brief description of your Django REST API Project*
+
 
 ### Table of Contents
 
@@ -129,13 +129,7 @@ To start your Django REST API locally:
    ```
 
 
-
-
-
-
-
-
-
+## Now the React Part 
 
 # Getting Started with Create React App
 
